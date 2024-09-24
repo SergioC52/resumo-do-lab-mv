@@ -5,7 +5,8 @@ O processo de criação envolve a escolha do sistema operacional, tamanho da VM 
 
 Em termos de disponibilidade, o Azure oferece diversas opções para garantir a resiliência da aplicação:
 
-Zonas de Disponibilidade: Distribui VMs entre datacenters físicos separados, garantindo alta resiliência a falhas, mas com um custo mais elevado.
-Conjuntos de Disponibilidade: Agrupa VMs em diferentes racks dentro de um mesmo datacenter, protegendo contra falhas locais, sendo mais econômico, porém com menor proteção geográfica.
-Escalonamento automático: Ajusta os recursos conforme a demanda, reduzindo custos em momentos de baixa utilização e aumentando a capacidade quando necessário.
+- Zonas de Disponibilidade: Distribui VMs entre datacenters físicos separados, garantindo alta resiliência a falhas, mas com um custo mais elevado.
+- Conjuntos de Disponibilidade: Agrupa VMs em diferentes racks dentro de um mesmo datacenter, protegendo contra falhas locais, sendo mais econômico, porém com menor proteção geográfica.
+- Escalonamento automático: Ajusta os recursos conforme a demanda, reduzindo custos em momentos de baixa utilização e aumentando a capacidade quando necessário.
+
 Essas opções permitem que os recursos sejam adaptados conforme as necessidades de resiliência e orçamento, proporcionando flexibilidade tanto em termos de performance quanto de custos, tornando as VMs uma solução versátil para diferentes cenários de uso.
